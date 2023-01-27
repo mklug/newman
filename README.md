@@ -67,6 +67,3 @@ if the relation given is 'aabaBd', then the group will have generators 'a,b,c,d'
 
 This program is released under the terms of the GNU GPL version 3.0. See the attached license file.
 
-[https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A51E086AF79B5D32E0F2A590B01BF779/S1446788700014300a.pdf/div-class-title-on-one-relator-groups-and-span-class-italic-hnn-span-extensions-div.pdf]:(McCool&Schupp)
-
-[https://link.springer.com/article/10.1007/BF01455888]:(Magnus)
