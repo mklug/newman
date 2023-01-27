@@ -4,8 +4,8 @@ This simple program gives an implementation of the algorithm for solving the wor
 in torsion one relator groups that results from Newman's Spelling Theorem.  A fun read
 on the history of this theorem was written up by [Nyberg-Brodda](https://arxiv.org/abs/2004.01484).
 A nice proof (using iterated HNN extensions and Britton's lemma) can by found in this 
-[paper](McCool&Schupp) by McCool and Schupp.  There is a more general result of 
-[Magnus](Magnus) (see also the aforementioned paper of McCool and Schupp) 
+[paper](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A51E086AF79B5D32E0F2A590B01BF779/S1446788700014300a.pdf/div-class-title-on-one-relator-groups-and-span-class-italic-hnn-span-extensions-div.pdf) by McCool and Schupp.  There is a more general result of 
+[Magnus](https://link.springer.com/article/10.1007/BF01455888) (see also the aforementioned paper of McCool and Schupp) 
 that the word problem for one relator groups is solvable, however the resulting
 algorithm is much slower than the algorithm resulting from the Spelling Theorem.  
 
